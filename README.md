@@ -1,1 +1,3 @@
-# imdb_mysql_eda
+# EDA for IMDb database
+
+![]( images/imdb.svg )
